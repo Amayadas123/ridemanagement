@@ -49,6 +49,9 @@ function login() {
      <label >password:
        <input type="password" onChange={(e)=>setpassword(e.target.value)}/>
      </label>
+     <label >password:
+       <input type="password" onChange={(e)=>setpassword(e.target.value)}/>
+     </label>
      <br></br><br></br>
  
 
