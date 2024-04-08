@@ -1,0 +1,147 @@
+.h1{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    font-size: 70px;
+}
+.card1{
+    background-color:gray;
+    color: black;
+    height: 400px;
+    width: 300px;
+    /* margin-left: 300px; */
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin-left: 40px;
+
+
+}
+.card2{
+    background-color:gray;
+    color: black;
+    height: 400px;
+    width: 300px;
+    margin-left: 350px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin-right: 30px;
+    margin-bottom: -800px;
+    margin-left: 450px;
+    
+} 
+.card3{
+    background-color:gray;
+    color: black;
+    height: 410px;
+    width: 300px;
+    margin-left: 900px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin-right: 80px;
+   
+} 
+.card4{
+    background-color:gray;
+    color: black;
+    width: 300px;
+    height: 400px;
+    margin-left: 750px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+margin-bottom: 50px;
+    margin-left: 40px; 
+}
+
+.card5{
+    background-color:gray;
+    color: black;
+
+    width: 300px;
+    margin-left: 850px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+  margin-left:450px;
+  margin-top: -820px;
+  
+}
+.card6{
+    background-color:gray;
+    color: black;
+    height: 410px;
+    width: 300px;
+    margin-top: 30px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+  margin-left:850px;
+
+  
+}
+.card7{
+    background-color:gray;
+    color: black;
+    height: 410px;
+    width: 300px;
+ margin-top: 60px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+  margin-left:850px;
+}
+.card8{
+    background-color:gray;
+    color: black;
+height: 400px;
+    width: 300px;
+    margin-left: 850px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+  margin-left:450px;
+  margin-top: -400px;
+  
+}
+.card9{
+    background-color:gray;
+    color: black;
+    width: 300px;
+    height: 400px;
+    margin-left: 750px;
+    border: 3px solid black;
+    border-radius: 30px;
+    text-align: center;
+    margin-bottom: 50px;
+    margin-left: 40px; 
+    margin-top: -400px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

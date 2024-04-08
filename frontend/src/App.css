@@ -1,0 +1,228 @@
+
+
+
+
+/* <br></br>
+<div>
+<h1>REGISTER NOW</h1>
+<label> Username :
+
+  <input type="text"/>
+</label><br></br>
+<br></br>
+<label> Email :
+  <input className="em"type="email" />
+</label><br></br>
+<br></br>
+<label>Phone No :
+  <input className="phn" type="phone"/>
+</label><br></br>
+<br></br>
+<label> Address :
+  <input className="adr" type="text"/>
+</label><br></br>
+<br></br>
+<label>Password  :  
+  <input type="password"/>
+</label><br></br>
+<br></br>
+<img  classname="class1"src=""/>
+<button className='btn'>SUBMIT</button>
+</div> */
+
+
+/* import React from 'react'
+import "./Header.css"
+function Header() {
+  return (
+    <div className='head'> <ul>
+   <a href='#'>MERN</a>
+   <a href='#'>ABOUT</a>
+    <a href='#'>HOME</a>
+    <a href='#'>HOME</a>
+   <a href='#'>LOGOUT</a>
+    <a href='#'>REGISTRATION</a>
+   <a href='#'>LOGIN</a>
+  </ul></div>
+  )
+}
+
+export default Header */
+
+
+ /* user name cyberscrtfrm */
+ /* password= bh2lTdaGV98N898O */
+ /* mongodb+srv://cyberscrtfrm:<password>@cluster0.tc3onv6.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 */
+ /* mongodb+srv://amayadevu:<password>@cluster0.hrht1oa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 */
+ /* mongodb+srv://amayadevu:<password>@cluster0.hrht1oa.mongodb.net/ */
+ /* //   mongodb+srv://amayadevu:<password>@cluster0.hrht1oa.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0 */
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+ import React from 'react';
+ function Home() {
+   const token = localStorage.getItem("jwt")
+ 
+ 
+   return (
+ 
+     <div className="cls1">
+       <nav class="navbar navbar-expand-lg bg-body-tertiary">
+         <div class="container-fluid">
+           <a class="navbar-brand" href="#">React</a>
+           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span>
+           </button>
+           <div class="collapse navbar-collapse" id="navbarSupportedContent">
+             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+               <li class="nav-item">
+                 <a class="nav-link active" aria-current="page" href="/">Home</a>
+               </li>
+ 
+               {
+                 token ?
+                   <li class="nav-item">
+                     <a class="nav-link active" aria-current="page" href=""
+                       onClick={() => localStorage.removeItem("jwt")}
+ 
+                     >Logout</a>
+                   </li>
+                   :
+                   <>
+                     <li class="nav-item">
+                       <a class="nav-link active" aria-current="page" href="/login1">Login</a>
+                     </li>
+                     <li class="nav-item">
+                       <a class="nav-link active" aria-current="page" href="/register">Register</a>
+                     </li>
+                   </>
+               }
+               <li class="nav-item">
+                 <a class="nav-link active" aria-current="page" href="/profile">Profile</a>
+               </li>
+             </ul>
+             <div className='search'>
+               <form class="d-flex" role="search">
+                 <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
+                 {<button class="btn btn-outline-success" type="submit">Search</button>}
+               /* </form>
+             </div>
+           </div>
+         </div>
+       </nav>
+ 
+       <div className='img1'> */
+         /* {<img src="https://img.freepik.com/free-photo/full-frame-droplets-colorful-feather-surface_23-2148114574.jpg?size=626&ext=jpg&ga=GA1.1.351809350.1692689304&semt=ais" />} */
+       /* </div>
+ 
+     </div>
+   )
+ }
+ /* export default Home */ 
+
+
+
+
+/* 
+
+ return (
+    
+ <div className='log'>
+  {token?
+  }
+    <h1 className='lg'>LOG IN</h1>
+<form>
+
+     <div className='ema1'>
+<label> User name<br></br>
+</label>
+</div>
+<input type="text"/><br></br>
+
+     <div className='ema1'>
+<label> Email <br></br>
+</label>
+</div>
+
+<input type="text"/><br></br>
+<br></br>
+<div className='pass1'>
+<label>Password<br></br>
+</label>
+
+</div>
+<input type="text"/><br></br>
+<br></br>
+<button className='btn'>Login</button>
+     
+</form>
+   </div>
+  
+)
+
+
+export default login */
+
+    /* <nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">Home</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Link</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Dropdown
+          </a>
+          <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+         
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+          </ul>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+        </li>
+      </ul>
+      <form class="d-flex">
+        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search"/>
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+    </div>
+  </div>
+  </nav> */
+
+
+
+
+/* 
+passswod :hUFSGjdYorO2ncJo */
+ /* mongodb+srv://amayadevu:hUFSGjdYorO2ncJo@cluster0.b132uqs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0  */
+/* amayadevu */
+
+
+
+
+
+
+
+
